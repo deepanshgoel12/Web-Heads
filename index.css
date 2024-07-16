@@ -1,0 +1,412 @@
+body{
+    margin: 0;
+    padding: 0;
+
+}
+
+/* Navbar code */
+
+#header{
+   
+    
+    background-color: rgb(19, 35, 35); 
+    display: flex;
+    justify-content: flex-end;
+    gap: 20rem;
+    
+}
+#list li a{
+    text-decoration: none;
+    color: aliceblue;
+    
+}
+#list li{
+    margin-top:1.5rem;
+    
+}
+#list{
+    list-style: none;
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 3rem;
+    gap: 8rem;
+    
+
+    
+}
+#img img{
+    
+    margin: 1rem;
+}
+
+/* Section-1 code */
+
+
+
+main{
+    background-color: rgb(120, 168, 168); 
+    background-image: url("Provided Images/bg\ \(1\).png");
+    
+   
+}
+
+#sec1{
+    
+    gap: 20rem;
+}
+
+#sec1 h6{
+    font-size: 7rem;
+    margin: 0px;
+    margin-left: 10rem;
+    padding-top: 7rem;
+}
+
+#sec1 h1{
+    font-size: 1.5rem;
+    margin-left: 10rem;
+    padding-bottom: 1rem;
+}
+
+#sec1 a{
+    text-decoration: none;
+    color: white;
+    font-size: 1rem;
+    background-color: black;
+    border-radius: 1rem;
+    margin-left: 10rem;
+    padding: 0.8rem;
+}
+
+
+/* section-2 code*/
+
+#sec2{
+   
+   margin-top: 5rem;
+
+   background-color: rgb(62, 95, 95);
+    
+}
+#div1{
+    display: flex;
+  
+}
+/* section 2 image part*/
+#ff{
+    
+    justify-content: center;
+   
+    gap: 5rem;
+}
+
+#img2{
+    margin-top: 2rem;
+    margin-left: 10rem;
+    margin-right: 10rem;
+    /* border: 10px solid black; */
+    
+    border-radius: 1rem;
+}
+
+#exp{
+    font-size: 2rem;
+    display: flex;
+    gap: 1rem;
+    margin-left: 10rem;
+
+}
+
+
+/*section 2 details part*/
+
+
+
+#details{
+    margin-left: 3rem;
+    /* margin-top: 1 rem; */
+    
+}
+
+.div2 h6{
+    padding: 0;
+    margin: 0;
+    margin-top: 3rem;
+}
+
+.div3{
+    font-size: 20px;
+}
+
+#read a{
+    text-decoration: none;
+    color: white;
+    background-color: black;
+    padding: 0.8rem;
+   border-radius: 1rem;
+}
+#read{
+    margin-top: 4rem;
+}
+
+#need a{
+    text-decoration: none;
+    color: black;
+    
+    
+}
+#need h6{
+   margin-top: 3rem;
+    margin-bottom: 1rem;
+}
+
+
+/* Section-3 Code */
+
+#sec3{
+   
+    margin: 0px;
+    
+}
+#coach{
+    margin-left: 10rem;
+    padding-top: 5rem;
+}
+
+#coach h6{
+    font-size: 30px;
+    margin: 0px;
+    
+    
+}
+
+#Dualugo{
+    display: flex;
+    justify-content: center;
+    gap: 3rem;
+    margin-top: 6rem;
+    margin-left: 10rem;
+    margin-right: 6rem;
+    padding-bottom: 4rem;
+}
+.cc{
+    font-size: 1rem;
+}
+.cc a{
+    text-decoration: none;
+    color: white;
+    font-size: 0.9rem;
+    background-color: black;
+    border-radius: 1rem;
+    padding: 0.8rem;
+
+}
+
+#all{
+    
+    border: 2px solid;
+    padding-top: 10rem;
+    padding-left: 6rem;
+    padding-right: 6rem;
+    
+    border-radius: 1rem;
+    background-color: rgb(130, 166, 175);
+}
+#all a{
+    text-decoration: none;
+    color: white;
+   
+}
+#all:hover{
+    background-color:rgb(62, 95, 95);
+    cursor: pointer;
+}
+
+#sec4{
+    background-color: rgb(62, 95, 95);
+}
+#country{
+    margin-top: 3rem;
+}
+#country span{
+    margin: 0px;
+    font-size: 3rem;
+    margin-top: 3rem;
+    padding-left: 10rem;
+
+}
+#country h2{
+    padding-left: 10rem;
+}
+
+
+/*booking area*/
+
+.booking-area
+{
+   
+   
+    
+    padding: 10px;
+    
+    
+}
+
+.booking-2
+{
+    display: flex;
+    gap: 60px;
+}
+
+.ticket
+{
+    font-size: 20px;
+    margin-top: 5rem;
+}
+
+
+
+.contact-us
+{
+    background-image: url("Provided Images/img");
+}
+
+.a
+{
+    margin-top: 5rem;
+    text-shadow: 2px 2px 5px rgb(202, 202, 144);
+}
+
+.countries-1
+{
+    margin-top: 6rem;
+    padding-right: 3rem;
+}
+
+.countries-2
+{
+    margin-top: 6rem;
+    padding-right: 3rem;
+}
+
+.date
+{
+    margin-top: 6rem;
+    padding-right: 3rem;
+}
+
+.passenger
+{
+    margin-top: 6rem;
+    padding-right: 3rem;
+}
+
+.book{
+    margin-top: 10px;
+    background-color:black;
+    padding: 10px;
+    border-radius: 10px;
+    color:white;
+    margin-left: 650px;
+}
+
+.telephone
+{
+    float: right;
+    margin-right: 40px;
+}
+
+
+
+.booking-area-1
+{
+    margin-left: 36px;
+}
+
+.message
+{
+    font-size: 20px;
+}
+
+.phone{
+    margin-top: 10px;
+}
+
+.clock
+{
+    margin-top: 10px;
+}
+
+.location
+{
+    margin-top: 10px;
+}
+
+.email
+{
+    margin-top: 10px;
+}
+
+.message
+{
+    margin-top: 10px;
+}
+
+.button-2
+{
+    background-color:cornflowerblue;
+    padding: 10px;
+    border-radius: 10px;
+    margin-top: 10px;
+    box-shadow: 2px 2px yellowgreen;
+}
+.footer
+{
+    display: flex;
+   padding-left: 20rem;
+   padding-top: 1rem;
+   padding-bottom: 1rem;
+    gap: 4rem;
+    background-color:rgb(19, 35, 35);
+}
+
+.footer-items
+{
+    list-style-type: none;
+    display: flex;
+    justify-content: flex-end;
+    gap: 4rem;
+   
+    
+}
+.footer a{
+text-decoration: none;
+color: black;
+font-size: 18px;
+}
+
+.footer-items a{
+    text-decoration: none;
+    color: black;
+}
+
+.footer-1
+{
+    display: flex;
+    text-decoration: none;
+}
+
+
+.booking-area-1
+{
+    padding: 40px;
+}
+
+.from-button
+{
+    font-size: 20px;
+}
+.quotes{
+    background-color: rgb(62, 95, 95);
+}
+
